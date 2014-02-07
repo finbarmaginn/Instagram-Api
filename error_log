@@ -1,0 +1,10 @@
+[06-Feb-2014 21:06:24 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/finbarma/public_html/instagram/index.php on line 76
+[06-Feb-2014 21:07:33 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/finbarma/public_html/instagram/index.php on line 78
+[06-Feb-2014 21:07:34 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/finbarma/public_html/instagram/index.php on line 78
+[06-Feb-2014 21:07:36 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/finbarma/public_html/instagram/index.php on line 78
+[06-Feb-2014 21:07:37 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/finbarma/public_html/instagram/index.php on line 78
+[06-Feb-2014 21:07:37 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/finbarma/public_html/instagram/index.php on line 78
+[06-Feb-2014 21:07:37 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/finbarma/public_html/instagram/index.php on line 78
+[06-Feb-2014 21:07:39 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/finbarma/public_html/instagram/index.php on line 78
+[06-Feb-2014 21:07:39 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/finbarma/public_html/instagram/index.php on line 78
+[07-Feb-2014 00:41:10 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/finbarma/public_html/instagram/assets/includes/getinstagram.php on line 26
